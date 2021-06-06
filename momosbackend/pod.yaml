@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: django-container-momos
-      image: alejandro180192/momos-backend:lastest
+      image: 985991030409.dkr.ecr.us-east-1.amazonaws.com/momos-backend:lastest
       readinessProbe:
         httpGet:
           path: /
