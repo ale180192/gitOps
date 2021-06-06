@@ -15,4 +15,4 @@ spec:
           port: 9000
         initialDelaySeconds: 5
         timeoutSeconds: 1
-        periodSecods: 15
+        periodSeconds: 15
